@@ -1,0 +1,270 @@
+# ===================================
+# TECH-ELETRO - .HTACCESS
+# ===================================
+# Configurações de segurança e otimização para Apache
+# ===================================
+
+# ===================================
+# SEGURANÇA
+# ===================================
+
+# Desabilitar listagem de diretórios
+Options -Indexes
+
+# Seguir links simbólicos
+Options +FollowSymLinks
+
+# Proteger arquivos sensíveis
+<FilesMatch "^(config\.php|composer\.json|composer\.lock|\.env|\.git|\.gitignore)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Proteger arquivos de backup
+<FilesMatch "\.(bak|backup|old|save|sql|gz|tar|zip)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Prevenir acesso a arquivos ocultos
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Proteger diretórios sensíveis
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(backups|logs|vendor|database)(/.*)?$ - [F,L]
+</IfModule>
+
+# ===================================
+# PROTEÇÃO CONTRA INJECTION
+# ===================================
+
+# Bloquear solicitações suspeitas
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Bloquear strings SQL injection
+    RewriteCond %{QUERY_STRING} ([a-z0-9]{2000,}) [NC,OR]
+    RewriteCond %{QUERY_STRING} (union.*select.*\() [NC,OR]
+    RewriteCond %{QUERY_STRING} (concat.*\() [NC,OR]
+    RewriteCond %{QUERY_STRING} (insert.*into.*values) [NC,OR]
+    RewriteCond %{QUERY_STRING} (<script.*>.*</script>) [NC]
+    RewriteRule ^(.*)$ - [F,L]
+</IfModule>
+
+# ===================================
+# HEADERS DE SEGURANÇA
+# ===================================
+
+<IfModule mod_headers.c>
+    # Prevenir XSS
+    Header set X-XSS-Protection "1; mode=block"
+    
+    # Prevenir clickjacking
+    Header always append X-Frame-Options SAMEORIGIN
+    
+    # Prevenir MIME sniffing
+    Header set X-Content-Type-Options "nosniff"
+    
+    # Política de referrer
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    
+    # Content Security Policy (ajuste conforme necessário)
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline';"
+    
+    # Remover informações do servidor
+    Header unset Server
+    Header unset X-Powered-By
+</IfModule>
+
+# ===================================
+# PHP SETTINGS
+# ===================================
+
+<IfModule mod_php7.c>
+    # Desabilitar exposição da versão do PHP
+    php_flag expose_php Off
+    
+    # Limites de upload
+    php_value upload_max_filesize 5M
+    php_value post_max_size 8M
+    php_value max_execution_time 30
+    php_value max_input_time 60
+    php_value memory_limit 128M
+    
+    # Segurança
+    php_flag display_errors Off
+    php_flag log_errors On
+</IfModule>
+
+# ===================================
+# REWRITE RULES
+# ===================================
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Redirecionar para HTTPS (descomente se tiver SSL)
+    # RewriteCond %{HTTPS} off
+    # RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    
+    # Remover www (ou adicionar, escolha um)
+    # RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    # RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+    
+    # Remover index.php da URL
+    RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+    RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+    
+    # Adicionar trailing slash (opcional)
+    # RewriteCond %{REQUEST_FILENAME} !-f
+    # RewriteCond %{REQUEST_URI} !(.*)/$
+    # RewriteRule ^(.*)$ $1/ [L,R=301]
+</IfModule>
+
+# ===================================
+# COMPRESSÃO GZIP
+# ===================================
+
+<IfModule mod_deflate.c>
+    # Comprimir HTML, CSS, JavaScript, Text, XML e fonts
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+    AddOutputFilterByType DEFLATE application/x-font
+    AddOutputFilterByType DEFLATE application/x-font-opentype
+    AddOutputFilterByType DEFLATE application/x-font-otf
+    AddOutputFilterByType DEFLATE application/x-font-truetype
+    AddOutputFilterByType DEFLATE application/x-font-ttf
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE font/opentype
+    AddOutputFilterByType DEFLATE font/otf
+    AddOutputFilterByType DEFLATE font/ttf
+    AddOutputFilterByType DEFLATE image/svg+xml
+    AddOutputFilterByType DEFLATE image/x-icon
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/xml
+    
+    # Remover browser bugs (opcional)
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+    Header append Vary User-Agent
+</IfModule>
+
+# ===================================
+# CACHE DE ARQUIVOS ESTÁTICOS
+# ===================================
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # Padrão: 1 mês
+    ExpiresDefault "access plus 1 month"
+    
+    # HTML: sem cache
+    ExpiresByType text/html "access plus 0 seconds"
+    
+    # CSS e JavaScript: 1 ano
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType application/x-javascript "access plus 1 year"
+    
+    # Imagens: 1 ano
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+    
+    # Fontes: 1 ano
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType application/x-font-woff "access plus 1 year"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+    ExpiresByType application/x-font-ttf "access plus 1 year"
+    ExpiresByType font/opentype "access plus 1 year"
+    
+    # Vídeos e áudios
+    ExpiresByType video/mp4 "access plus 1 year"
+    ExpiresByType video/webm "access plus 1 year"
+    ExpiresByType audio/mp3 "access plus 1 year"
+</IfModule>
+
+# Cache control headers
+<IfModule mod_headers.c>
+    # Imagens e assets estáticos
+    <FilesMatch "\.(jpg|jpeg|png|gif|svg|webp|ico|css|js|woff|woff2|ttf|eot)$">
+        Header set Cache-Control "max-age=31536000, public, immutable"
+    </FilesMatch>
+    
+    # HTML sem cache
+    <FilesMatch "\.(html|htm|php)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+        Header set Pragma "no-cache"
+        Header set Expires 0
+    </FilesMatch>
+</IfModule>
+
+# ===================================
+# ENCODING
+# ===================================
+
+# UTF-8 encoding
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .css .js .xml .json .rss .atom
+
+# ===================================
+# ERROR PAGES CUSTOMIZADAS
+# ===================================
+
+# ErrorDocument 400 /errors/400.html
+# ErrorDocument 401 /errors/401.html
+# ErrorDocument 403 /errors/403.html
+# ErrorDocument 404 /errors/404.html
+# ErrorDocument 500 /errors/500.html
+
+# ===================================
+# LIMITAR TAMANHO DO REQUEST
+# ===================================
+
+<IfModule mod_security.c>
+    # Limitar tamanho do request body a 10MB
+    SecRequestBodyLimit 10485760
+    
+    # Limitar tamanho de upload a 10MB
+    SecRequestBodyNoFilesLimit 131072
+</IfModule>
+
+# ===================================
+# PROTEÇÃO HOTLINK (OPCIONAL)
+# ===================================
+
+# Descomente para proteger suas imagens
+# <IfModule mod_rewrite.c>
+#     RewriteEngine on
+#     RewriteCond %{HTTP_REFERER} !^$
+#     RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?seu-dominio\.com\.br [NC]
+#     RewriteRule \.(jpg|jpeg|png|gif|svg|webp)$ - [F,NC]
+# </IfModule>
+
+# ===================================
+# REDIRECIONAMENTOS PERMANENTES
+# ===================================
+
+# Exemplo de redirecionamento
+# Redirect 301 /old-page.php /new-page.php
+
+# ===================================
+# FIM DO .HTACCESS
+# ===================================

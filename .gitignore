@@ -1,0 +1,145 @@
+# ===================================
+# TECH-ELETRO - GITIGNORE
+# ===================================
+
+# ===================================
+# CONFIGURAÇÕES SENSÍVEIS (CRÍTICO)
+# ===================================
+config.php
+email_config.php
+.env
+.env.local
+.env.*.local
+
+# ===================================
+# LOGS E DEBUG
+# ===================================
+*.log
+error_log
+logs/
+debug.log
+php_errors.log
+
+# ===================================
+# DEPENDÊNCIAS
+# ===================================
+/vendor/
+composer.phar
+composer.lock
+
+# ===================================
+# BACKUPS E UPLOADS
+# ===================================
+/backups/*
+!/backups/.gitkeep
+/uploads/*
+!/uploads/.gitkeep
+*.sql
+*.sql.gz
+*.zip
+*.tar.gz
+
+# ===================================
+# ARQUIVOS TEMPORÁRIOS
+# ===================================
+/tmp/*
+!/tmp/.gitkeep
+/temp/*
+!/temp/.gitkeep
+/cache/*
+!/cache/.gitkeep
+
+# ===================================
+# IDE E EDITORES
+# ===================================
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PhpStorm / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ===================================
+# SISTEMA OPERACIONAL
+# ===================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ===================================
+# PDFs E DOCUMENTOS GERADOS
+# ===================================
+# Manter estrutura mas ignorar arquivos gerados
+/pdfs/generated/*
+!/pdfs/generated/.gitkeep
+/exports/*
+!/exports/.gitkeep
+
+# ===================================
+# FOTOS E IMAGENS DE SERVIÇOS
+# ===================================
+/fotos_servicos/*
+!/fotos_servicos/.gitkeep
+/fotos_orcamentos/*
+!/fotos_orcamentos/.gitkeep
+
+# ===================================
+# ARQUIVOS DE DESENVOLVIMENTO
+# ===================================
+phpinfo.php
+test.php
+debug.php
+debug_limpo.php
+mysql_teste.php
+
+# ===================================
+# NODE (SE USAR FRONTEND BUILD)
+# ===================================
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# ===================================
+# CERTIFICADOS E CHAVES
+# ===================================
+*.pem
+*.key
+*.crt
+*.p12
+
+# ===================================
+# OUTROS
+# ===================================
+*.bak
+*.swp
+*.swo
+*~
