@@ -1,0 +1,1166 @@
+[19-Nov-2025 10:32:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php on line 142
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 14
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 17
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 26
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 29
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 32
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 10
+[19-Nov-2025 10:48:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:1) in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 15
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 15
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 17
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 26
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 29
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 32
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 10
+[19-Nov-2025 11:02:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:1) in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 15
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 15
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 11
+[19-Nov-2025 11:05:29 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:1) in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 16
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Warning:  Undefined variable $session_dir in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 41
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 41
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 42
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 44
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 47
+[19-Nov-2025 19:52:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/config.php:41) in /home1/joao0106/servicos.playtvtech.xyz/os.php on line 5
+[20-Nov-2025 18:48:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/layout_header.php:42) in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 137
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/File/LocalContentLoader.php on line 10
+[20-Nov-2025 22:20:56 America/Fortaleza] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output (/home1/joao0106/servicos.playtvtech.xyz/os_pdf.php at line 126), unable to output PDF file in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/Mpdf.php:9573
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php(146): Mpdf\Mpdf->Output('OS_8.pdf', 'I')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/Mpdf.php on line 9573
+[20-Nov-2025 22:21:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php on line 142
+[20-Nov-2025 22:48:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<" in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 175
+[21-Nov-2025 11:59:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 460
+[21-Nov-2025 12:02:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 462
+[21-Nov-2025 13:36:26 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 246
+[21-Nov-2025 18:39:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php on line 142
+[21-Nov-2025 20:23:38 America/Fortaleza] PHP Notice:  Only variables should be passed by reference in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 52
+[21-Nov-2025 20:23:38 America/Fortaleza] PHP Notice:  Only variables should be passed by reference in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 52
+[21-Nov-2025 20:23:38 America/Fortaleza] PHP Notice:  Only variables should be passed by reference in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 53
+[21-Nov-2025 20:23:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`joao0106_financeiro`.`os_itens`, CONSTRAINT `os_itens_ibfk_1` FOREIGN KEY (`os_id`) REFERENCES `ordens_servico` (`id`) ON DELETE CASCADE) in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:67
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 67
+[22-Nov-2025 11:55:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`joao0106_financeiro`.`os_itens`, CONSTRAINT `os_itens_ibfk_1` FOREIGN KEY (`os_id`) REFERENCES `ordens_servico` (`id`) ON DELETE CASCADE) in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:64
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(64): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 64
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php on line 126
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/File/LocalContentLoader.php on line 10
+[22-Nov-2025 12:14:02 America/Fortaleza] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output (/home1/joao0106/servicos.playtvtech.xyz/os_pdf.php at line 126), unable to output PDF file in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/Mpdf.php:9573
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_pdf.php(146): Mpdf\Mpdf->Output('OS_10.pdf', 'I')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/vendor/mpdf/mpdf/src/Mpdf.php on line 9573
+[22-Nov-2025 12:29:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php on line 142
+[22-Nov-2025 12:31:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php:47
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_insert.php(47): mysqli->prepare('INSERT INTO os ...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_insert.php on line 47
+[22-Nov-2025 13:32:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "{" or "$" in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 378
+[22-Nov-2025 13:33:46 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file, expecting variable or "{" or "$" in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 385
+[22-Nov-2025 14:25:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 382
+[22-Nov-2025 16:11:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 382
+[24-Nov-2025 08:46:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 357
+[24-Nov-2025 08:46:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 357
+[24-Nov-2025 14:10:04 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/cliente_edit.php on line 41
+[26-Nov-2025 08:13:17 America/Fortaleza] PHP Warning:  Undefined array key "cliente_nome" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[26-Nov-2025 08:13:17 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[26-Nov-2025 08:13:17 America/Fortaleza] PHP Warning:  Undefined array key "custo_unit" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 124
+[26-Nov-2025 08:13:17 America/Fortaleza] PHP Warning:  Undefined array key "custo_unit" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 124
+[26-Nov-2025 08:22:43 America/Fortaleza] PHP Warning:  Undefined array key "cliente_nome" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[26-Nov-2025 08:22:43 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[26-Nov-2025 08:22:43 America/Fortaleza] PHP Warning:  Undefined array key "custo_unit" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 124
+[27-Nov-2025 08:25:52 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 186
+[27-Nov-2025 08:25:56 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 186
+[27-Nov-2025 08:25:59 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 186
+[27-Nov-2025 11:43:54 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:43:59 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:44:04 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:44:41 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:54:47 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:55:20 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 187
+[27-Nov-2025 11:58:50 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 186
+[27-Nov-2025 11:59:19 America/Fortaleza] PHP Warning:  Undefined variable $equip_template_class in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 161
+[27-Nov-2025 13:51:47 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 501
+[27-Nov-2025 13:51:47 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 502
+[27-Nov-2025 13:51:47 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 503
+[27-Nov-2025 13:51:59 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 501
+[27-Nov-2025 13:51:59 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 502
+[27-Nov-2025 13:51:59 America/Fortaleza] PHP Warning:  Undefined variable $status_pagamento in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 503
+[01-Dec-2025 08:39:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:39:54 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:39:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:39:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:40:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:40:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:40:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:43:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:43:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'numero' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:17
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(17): mysqli->prepare('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 17
+[01-Dec-2025 08:48:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 08:48:04 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 08:48:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 08:48:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 08:48:37 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:154
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(154): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 154
+[01-Dec-2025 09:51:25 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:154
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(154): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 154
+[01-Dec-2025 11:07:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:13 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:07:44 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:155
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(155): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Conclu\xC3\xADda', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 155
+[01-Dec-2025 11:18:40 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:155
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(155): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Conclu\xC3\xADda', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 155
+[01-Dec-2025 11:19:00 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:155
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(155): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Conclu\xC3\xADda', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 155
+[01-Dec-2025 11:28:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:154
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(154): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 154
+[01-Dec-2025 11:29:57 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:154
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(154): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 154
+[01-Dec-2025 11:32:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:32:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 11:32:23 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:156
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(156): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 156
+[01-Dec-2025 11:39:25 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:156
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(156): mysqli_stmt->bind_param('isssssssssiddds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 156
+[01-Dec-2025 11:42:09 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:161
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(161): mysqli_stmt->bind_param('isssssssssssdds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', '0', 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 161
+[01-Dec-2025 11:44:50 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:157
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(157): mysqli_stmt->bind_param('issssssssiddsi', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 157
+[01-Dec-2025 11:51:13 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:160
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(160): mysqli_stmt->bind_param('issssssssssidds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 160
+[01-Dec-2025 12:00:11 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:172
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(172): mysqli_stmt->bind_param('issssssssssiddi', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 172
+[01-Dec-2025 12:01:57 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:164
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(164): mysqli_stmt->bind_param('issssssssssidds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 164
+[01-Dec-2025 12:03:02 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:176
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(176): mysqli_stmt->bind_param('issssssssssidds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 176
+[01-Dec-2025 12:05:32 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:179
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(179): mysqli_stmt->bind_param('issssssssssssss...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', '0', '0', '0', '0', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 179
+[01-Dec-2025 12:08:45 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:179
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(179): mysqli_stmt->bind_param('issssssssssssss...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PAGO', '2025-12-01', '0', '0', '0', '1250', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 179
+[01-Dec-2025 12:12:48 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:181
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(181): mysqli_stmt->bind_param('issssssssssidds...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PAGO', '2025-12-01', 0, 0.0, 0.0, 1250.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 181
+[01-Dec-2025 12:17:38 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:183
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(183): mysqli_stmt->bind_param('issssssssssssss...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PAGO', '2025-12-01', '0', '0', '0', '1250', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 183
+[01-Dec-2025 12:22:33 America/Fortaleza] PHP Parse error:  Unmatched '}' in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 288
+[01-Dec-2025 12:22:35 America/Fortaleza] PHP Parse error:  Unmatched '}' in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 288
+[01-Dec-2025 12:40:41 America/Fortaleza] PHP Parse error:  Unmatched '}' in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 288
+[01-Dec-2025 12:47:31 America/Fortaleza] PHP Warning:  Undefined variable $id in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 257
+[01-Dec-2025 12:47:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:257
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(257): mysqli->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 257
+[01-Dec-2025 12:52:11 America/Fortaleza] PHP Warning:  Undefined variable $id in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 257
+[01-Dec-2025 12:52:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:257
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(257): mysqli->query('SELECT * FROM o...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 257
+[01-Dec-2025 12:53:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:288
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 288
+[01-Dec-2025 13:21:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:289
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 289
+[01-Dec-2025 13:22:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:289
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 289
+[01-Dec-2025 13:24:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 293
+[01-Dec-2025 13:25:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function float_to_br() in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:313
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 313
+[01-Dec-2025 13:25:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 293
+[01-Dec-2025 13:26:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 256
+[01-Dec-2025 13:26:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 256
+[01-Dec-2025 13:31:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 292
+[01-Dec-2025 13:38:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 292
+[01-Dec-2025 14:25:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[01-Dec-2025 14:25:35 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:163
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(163): mysqli_stmt->bind_param('issssssssssssss...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', '0', '0', '0', '0', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 163
+[01-Dec-2025 18:25:33 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:162
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(162): mysqli_stmt->bind_param('issssssssssssss...', 18, 'Evandro Mauro F...', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', '0', '0', '150', '0', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 162
+[01-Dec-2025 18:31:26 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:164
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(164): mysqli_stmt->bind_param('issssssssssidds...', 18, 'evan', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', 0, 0.0, 0.0, 0.0, '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 164
+[01-Dec-2025 19:39:00 America/Fortaleza] PHP Warning:  file_get_contents(/home1/joao0106/servicos.playtvtech.xyz/js-snippet-placeholder.js): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 427
+[01-Dec-2025 20:11:33 America/Fortaleza] PHP Warning:  file_get_contents(/home1/joao0106/servicos.playtvtech.xyz/js-snippet-placeholder.js): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 427
+[01-Dec-2025 20:11:37 America/Fortaleza] PHP Warning:  file_get_contents(/home1/joao0106/servicos.playtvtech.xyz/js-snippet-placeholder.js): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 427
+[01-Dec-2025 20:12:31 America/Fortaleza] PHP Warning:  file_get_contents(/home1/joao0106/servicos.playtvtech.xyz/js-snippet-placeholder.js): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 427
+[01-Dec-2025 22:28:41 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php:162
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/os_edit.php(162): mysqli_stmt->bind_param('issssssssssssss...', 18, 'evan', 'Campo das crian...', 'Virmond', '42933003760', 'Troca DVR', '', '2025-12-01', 'Pendente', 'PENDENTE', '', '0', '0', '0', '0', '', 14)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/os_edit.php on line 162
+[01-Dec-2025 22:35:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php:23
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php(23): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/buscar_orcamentos.php on line 23
+[02-Dec-2025 14:23:11 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'joao0106_financeiro.tecnicos' doesn't exist in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add.php:20
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/orcamento_add.php(20): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add.php on line 20
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 19
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 26
+[02-Dec-2025 19:01:01 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 31
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:07:15 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 34
+[02-Dec-2025 19:08:08 America/Fortaleza] PHP Warning:  Undefined array key "modelo" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 40
+[02-Dec-2025 19:09:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'modelo' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php:7
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php(7): mysqli->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 7
+[05-Dec-2025 08:07:45 America/Fortaleza] PHP Warning:  Undefined array key "cliente_nome" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[05-Dec-2025 08:07:45 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 68
+[05-Dec-2025 08:07:45 America/Fortaleza] PHP Warning:  Undefined array key "custo_unit" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 124
+[05-Dec-2025 08:07:45 America/Fortaleza] PHP Warning:  Undefined array key "custo_unit" in /home1/joao0106/servicos.playtvtech.xyz/orcamento_edit.php on line 124
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:07 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Warning:  Undefined array key "foto" in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:08:15 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 39
+[05-Dec-2025 08:09:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'foto' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php:7
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php(7): mysqli->prepare('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 7
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 4
+[05-Dec-2025 23:38:50 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/debug.php:6) in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 8
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 4
+[06-Dec-2025 10:23:07 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/debug.php:6) in /home1/joao0106/servicos.playtvtech.xyz/layout_header.php on line 8
+[08-Dec-2025 08:02:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor_venda' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php:7
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php(7): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_modal.php on line 7
+[08-Dec-2025 08:37:57 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'codigo' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:10
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(10): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 10
+[08-Dec-2025 08:38:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'codigo' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:10
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(10): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 10
+[08-Dec-2025 08:39:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:15
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(15): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 15
+[08-Dec-2025 08:39:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:15
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(15): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 15
+[08-Dec-2025 08:41:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:15
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(15): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 15
+[08-Dec-2025 08:43:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:15
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(15): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 15
+[08-Dec-2025 11:13:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:15
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(15): mysqli->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 15
+[08-Dec-2025 13:07:45 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:19
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(19): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 19
+[09-Dec-2025 08:10:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 08:10:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 08:10:42 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 08:11:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 08:11:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 08:11:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cpf' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php:13
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php(13): mysqli->prepare('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/clientes_search.php on line 13
+[09-Dec-2025 09:51:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'preco' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:30
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(30): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 30
+[09-Dec-2025 09:52:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'preco' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:30
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(30): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 30
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:32 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:52:52 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:03 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Warning:  Undefined array key "preco" in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 09:58:41 America/Fortaleza] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home1/joao0106/servicos.playtvtech.xyz/produtos.php on line 53
+[09-Dec-2025 10:22:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'preco' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:30
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(30): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 30
+[09-Dec-2025 10:24:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'preco' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php:30
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php(30): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/produtos_search.php on line 30
+[09-Dec-2025 11:24:05 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 3
+[09-Dec-2025 11:24:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cliente_nome' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php:65
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php(65): mysqli->prepare('INSERT INTO orc...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 65
+[09-Dec-2025 11:29:04 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 3
+[09-Dec-2025 11:29:04 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'telefone' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php:65
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php(65): mysqli->prepare('INSERT INTO orc...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 65
+[09-Dec-2025 11:33:35 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 3
+[09-Dec-2025 11:33:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'telefone' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php:65
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php(65): mysqli->prepare('INSERT INTO orc...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/orcamento_add_action.php on line 65
+[12-Dec-2025 14:16:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'deslocamento' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:96
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(96): mysqli->prepare('UPDATE servicos...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 96
+[12-Dec-2025 14:26:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'deslocamento' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:104
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(104): mysqli->prepare('UPDATE servicos...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 104
+[12-Dec-2025 16:16:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'deslocamento' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:124
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(124): mysqli->prepare('UPDATE servicos...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 124
+[12-Dec-2025 16:18:51 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'lucro_bruto' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:124
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(124): mysqli->prepare('UPDATE servicos...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 124
+[12-Dec-2025 16:21:45 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:144
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(144): mysqli_stmt->bind_param('ssdddsdddssdddd...', 'sandrao', 'manutecao camer...', '2025-12-08', 760.0, 0.0, '', 0.0, 0.0, 0.0, 'Em aberto', NULL, 80.0, 68.0, 680.0, 612.0, 306.0, 306.0, 13)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 144
+[12-Dec-2025 16:42:45 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 218
+[12-Dec-2025 16:43:27 America/Fortaleza] PHP Warning:  Undefined array key "data_quitacao" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 69
+[12-Dec-2025 16:43:27 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:128
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(128): mysqli_stmt->bind_param('sssddsd dds s d...', 'sandrao', 'manutecao camer...', '2025-12-08', 760.0, 0.0, '<br /><b>Deprec...', 50.0, 0.0, 0.0, 'Em aberto', NULL, 130.0, 76.0, 76.0, 554.0, 277.0, 277.0, 13)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 128
+[12-Dec-2025 17:04:10 America/Fortaleza] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) must only contain the "b", "d", "i", "s" type specifiers in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:114
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php(114): mysqli_stmt->bind_param('sssddsd ddssddd...', 'sandrao', 'manutecao camer...', '2025-12-12', 760.0, 0.0, '', 50.0, 0.0, 0.0, 'Em aberto', NULL, 130.0, 63.0, 567.0, 283.5, 283.5, 13)
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 114
+[12-Dec-2025 17:08:35 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/layout_header.php:29) in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 143
+[12-Dec-2025 17:27:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/layout_header.php:29) in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 140
+[12-Dec-2025 17:32:03 America/Fortaleza] PHP Warning:  Undefined array key "entrada" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 51
+[12-Dec-2025 17:32:03 America/Fortaleza] PHP Warning:  Undefined array key "total_pago" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 52
+[12-Dec-2025 17:32:03 America/Fortaleza] PHP Warning:  Undefined array key "saldo_restante" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 53
+[12-Dec-2025 17:32:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:51) in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 147
+[12-Dec-2025 17:36:42 America/Fortaleza] PHP Warning:  Undefined array key "entrada" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 51
+[12-Dec-2025 17:36:42 America/Fortaleza] PHP Warning:  Undefined array key "total_pago" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 52
+[12-Dec-2025 17:36:42 America/Fortaleza] PHP Warning:  Undefined array key "saldo_restante" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 53
+[12-Dec-2025 17:36:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php:51) in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 147
+[12-Dec-2025 19:09:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function loadSystemSettings() in /home1/joao0106/servicos.playtvtech.xyz/recalcular_servicos.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/recalcular_servicos.php on line 11
+[13-Dec-2025 11:27:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'lucro_bruto' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php:98
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add.php(98): mysqli->prepare('\n        INSERT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 98
+[13-Dec-2025 13:03:04 America/Fortaleza] PHP Warning:  require(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 13:03:04 America/Fortaleza] PHP Warning:  require(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 13:03:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 13:03:11 America/Fortaleza] PHP Warning:  require(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 13:03:11 America/Fortaleza] PHP Warning:  require(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 13:03:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_relatorio_pdf.php on line 3
+[13-Dec-2025 14:49:06 America/Fortaleza] PHP Warning:  Undefined array key "" in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 85
+[13-Dec-2025 16:55:18 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 4
+[13-Dec-2025 16:55:55 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 4
+[13-Dec-2025 16:55:55 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php:66
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add.php(66): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 66
+[13-Dec-2025 17:18:50 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 4
+[13-Dec-2025 17:18:54 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 4
+[13-Dec-2025 17:29:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php:74
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add.php(74): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 74
+[13-Dec-2025 18:36:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/layout_header.php:29) in /home1/joao0106/servicos.playtvtech.xyz/servico_add.php on line 116
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:03 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:04:09 America/Fortaleza] PHP Deprecated:  Function strftime() is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 121
+[13-Dec-2025 19:16:14 America/Fortaleza] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 3
+[13-Dec-2025 19:16:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:89
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(89): mysqli->query('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 89
+[13-Dec-2025 19:17:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'valor' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:88
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(88): mysqli->query('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 88
+[13-Dec-2025 19:49:07 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUM(reserva_emergencia)    AS reserva,
+    SUM(lucro)                 AS lucro,
+' at line 10 in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:81
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(81): mysqli->prepare('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 81
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Warning:  Undefined array key "servico_executado" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 179
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 179
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Warning:  Undefined array key "valor_recebido" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 185
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Warning:  Undefined array key "status_pagamento" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 193
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Warning:  Undefined array key "status_pagamento" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 194
+[15-Dec-2025 22:04:04 America/Fortaleza] PHP Warning:  Undefined array key "data" in /home1/joao0106/servicos.playtvtech.xyz/servico_edit.php on line 201
+[15-Dec-2025 22:14:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:40
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(40): mysqli->prepare('\n        INSERT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 40
+[15-Dec-2025 22:24:17 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:127
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(127): mysqli_stmt->bind_param('sssddddddsss', '', '', 0.0, 0.0, 0, 0.0, 0.0, 0.0, 0.0, 'Em aberto', '2025-12-15')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 127
+[15-Dec-2025 22:26:17 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:127
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(127): mysqli_stmt->bind_param('ssddddddss', '', '', 0.0, 0.0, 0, 0.0, 0.0, 0.0, 0.0, 'Em aberto', '2025-12-15')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 127
+[15-Dec-2025 22:36:04 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[15-Dec-2025 22:54:36 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[15-Dec-2025 22:54:53 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[15-Dec-2025 22:57:20 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[15-Dec-2025 22:57:37 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[16-Dec-2025 22:33:15 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:89
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(89): mysqli_stmt->bind_param('sssddddddsss', 'Teste', 'Teste', 1000.0, 100.0, 110.0, 801.0, 89.0, 400.5, 400.5, 'Em aberto', '2025-12-16')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 89
+[16-Dec-2025 22:34:47 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:91
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(91): mysqli_stmt->bind_param('sssddddddsss', 'Teste', 'Teste', 1000.0, 100.0, 110.0, 801.0, 89.0, 400.5, 400.5, 'Em aberto', '2025-12-16')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 91
+[16-Dec-2025 22:39:58 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[16-Dec-2025 22:39:58 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[16-Dec-2025 22:39:58 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[16-Dec-2025 22:39:58 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 219
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[16-Dec-2025 23:37:32 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 193
+[17-Dec-2025 07:38:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUM(CASE WHEN tipo='gasto_extra' THEN valor_recebido ELSE 0 END) AS gastos,
+    ' at line 4 in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:59
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(59): mysqli->prepare('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 59
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 3
+[17-Dec-2025 09:01:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/servicos.php:1) in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 5
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 3
+[17-Dec-2025 09:01:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/servicos.php:1) in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 5
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 18
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 27
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 28
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 30
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/joao0106/servicos.playtvtech.xyz/config.php on line 33
+[17-Dec-2025 12:20:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/joao0106/servicos.playtvtech.xyz/servicos.php:1) in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 4
+[17-Dec-2025 12:43:17 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php:26
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php(26): mysqli->prepare('\n        INSERT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_add_salvar.php on line 26
+[17-Dec-2025 19:15:25 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:15:25 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:15:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:20:33 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:20:33 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:20:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:28:47 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:28:47 America/Fortaleza] PHP Warning:  require(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:28:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 3
+[17-Dec-2025 19:32:55 America/Fortaleza] PHP Warning:  require(/home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/teste_pdf.php on line 2
+[17-Dec-2025 19:32:55 America/Fortaleza] PHP Warning:  require(/home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php): Failed to open stream: No such file or directory in /home1/joao0106/servicos.playtvtech.xyz/teste_pdf.php on line 2
+[17-Dec-2025 19:32:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home1/joao0106/servicos.playtvtech.xyz/teste_pdf.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/teste_pdf.php on line 2
+[17-Dec-2025 19:38:13 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:13 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:13 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:13 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:13 America/Fortaleza] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:108) in /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php:267
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php(1047): FPDF->Error('Some data has a...')
+#1 /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php(1004): FPDF->_checkoutput()
+#2 /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php(189): FPDF->Output('I', 'relatorio_servi...')
+#3 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php on line 267
+[17-Dec-2025 19:38:19 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:19 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:19 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:19 America/Fortaleza] PHP Warning:  Undefined array key "descricao" in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 108
+[17-Dec-2025 19:38:19 America/Fortaleza] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:108) in /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php:267
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php(1047): FPDF->Error('Some data has a...')
+#1 /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php(1004): FPDF->_checkoutput()
+#2 /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php(189): FPDF->Output('I', 'relatorio_servi...')
+#3 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/fpdf/fpdf.php on line 267
+[17-Dec-2025 19:39:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:111
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php(111): mysqli->query('\nSELECT descric...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 111
+[17-Dec-2025 19:39:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php:111
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php(111): mysqli->query('\nSELECT descric...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos_pdf.php on line 111
+[17-Dec-2025 23:42:53 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_view.php:42
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_view.php(42): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_view.php on line 42
+[17-Dec-2025 23:50:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'servico_id' in 'where clause' in /home1/joao0106/servicos.playtvtech.xyz/corrigir_servicos.php:29
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/corrigir_servicos.php(29): mysqli->query('\n    SELECT id,...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/corrigir_servicos.php on line 29
+[17-Dec-2025 23:53:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'descricao' in 'field list' in /home1/joao0106/servicos.playtvtech.xyz/servico_view.php:42
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servico_view.php(42): mysqli->query('\n        SELECT...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servico_view.php on line 42
+[18-Dec-2025 23:23:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g.servico_id' in 'on clause' in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:63
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(63): mysqli->prepare('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 63
+[18-Dec-2025 23:28:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ge.servico_id' in 'on clause' in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:62
+Stack trace:
+#0 /home1/joao0106/servicos.playtvtech.xyz/servicos.php(62): mysqli->prepare('\nSELECT\n    SUM...')
+#1 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 62
+[20-Dec-2025 14:57:26 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[20-Dec-2025 16:52:31 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[20-Dec-2025 17:25:24 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[02-Jan-2026 09:41:08 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[02-Jan-2026 09:44:21 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[02-Jan-2026 09:44:39 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 196
+[02-Jan-2026 14:16:03 America/Fortaleza] PHP Warning:  Undefined variable $typesLista in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 177
+[02-Jan-2026 14:16:03 America/Fortaleza] PHP Warning:  Undefined variable $paramsLista in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 177
+[02-Jan-2026 14:16:03 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Only arrays and Traversables can be unpacked in /home1/joao0106/servicos.playtvtech.xyz/servicos.php:177
+Stack trace:
+#0 {main}
+  thrown in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 177
+[02-Jan-2026 14:19:22 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 195
+[02-Jan-2026 14:53:04 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 195
+[02-Jan-2026 14:53:14 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 195
+[02-Jan-2026 14:54:37 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 195
+[02-Jan-2026 14:55:45 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 200
+[03-Jan-2026 10:40:43 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/servicos.php on line 200
+[03-Jan-2026 11:57:46 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:46 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:46 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:46 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 623
+[03-Jan-2026 11:57:50 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:50 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:50 America/Fortaleza] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 615
+[03-Jan-2026 11:57:50 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/joao0106/servicos.playtvtech.xyz/orcamentos.php on line 623
